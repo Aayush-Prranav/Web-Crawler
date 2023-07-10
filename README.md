@@ -3,7 +3,7 @@
 This repository contains a web crawler that retrieves search engine results pages **(SERPs) based on user-defined queries. The crawler is implemented in a Jupyter Notebook file named **serp.ipynb, which includes the code for scraping search results and extracting relevant information. The output of the crawler is stored in two files: **channel_data.csv and **channel_data.json. Additionally, there is a file named **Video Demo that provides an explanation of the code along with a running demonstration.
 
 **Files**
-**serp.ipynb: This Jupyter Notebook file contains the code for the web crawler. It utilizes web scraping techniques to fetch SERPs from search engines. The code is well-commented and organized into sections for easy understanding and modification.
+**serp.ipynb**: This Jupyter Notebook file contains the code for the web crawler. It utilizes web scraping techniques to fetch SERPs from search engines. The code is well-commented and organized into sections for easy understanding and modification.
 
 **channel_data.csv: This file stores the extracted information from the SERPs in CSV format. Each row represents a channel and includes relevant details such as the channel name, URL, description, and subscriber count. This file can be easily imported into spreadsheet software for further analysis or processing.
 
